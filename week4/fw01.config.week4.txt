@@ -58,12 +58,17 @@ set firewall name WAN-to-LAN rule 1 state established 'enable'
 
 Zone-policy
 
+DMZ
 set zone-policy zone DMZ from LAN firewall name 'LAN-to-DMZ'
 set zone-policy zone DMZ from WAN firewall name 'WAN-to-DMZ'
 set zone-policy zone DMZ interface 'eth1'
+
+LAN
 set zone-policy zone LAN from DMZ firewall name 'DMZ-to-LAN'
 set zone-policy zone LAN from WAN firewall name 'WAN-to-LAN'
 set zone-policy zone LAN interface 'eth2'
+
+WAN
 set zone-policy zone WAN from DMZ firewall name 'DMZ-to-WAN'
 set zone-policy zone WAN from LAN firewall name 'LAN-to-WAN'
 set zone-policy zone WAN interface 'eth0'
