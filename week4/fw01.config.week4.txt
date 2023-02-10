@@ -47,6 +47,9 @@ set firewall name WAN-to-DMZ rule 10 description 'Allow HTTP from WAN to DMZ'
 set firewall name WAN-to-DMZ rule 10 destination address '172.16.50.3'
 set firewall name WAN-to-DMZ rule 10 destination port '80'
 set firewall name WAN-to-DMZ rule 10 protocol 'tcp'
+
+WAN-to-LAN
+
 set firewall name WAN-to-LAN default-action 'drop'
 set firewall name WAN-to-LAN enable-default-log
 set firewall name WAN-to-LAN rule 1 action 'accept'
