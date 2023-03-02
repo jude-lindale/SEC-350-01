@@ -3,7 +3,7 @@ network:
   ethernets:
     ens160:
       addresses:
-       - 172.16.50.4/29
+       - 172.16.50.3/29
       gateway4: 172.16.50.2
       nameservers:
         addresses: [172.16.50.2]

@@ -1,0 +1,23 @@
+#try top first
+network:
+  ethernets:
+    ens160:
+      addresses:
+       - 172.16.150.50/24
+      nameservers:
+        addresses: [172.16.150.2]
+      routes:
+        - to: default
+          via: 172.16.150.2
+  version: 2
+
+network:
+  ethernets:
+    ens160:
+      addresses:
+       - 172.16.150.50/24
+      gateway4: 172.16.150.2
+      nameservers:
+        addresses: [172.16.150.2]
+  version: 2
+
