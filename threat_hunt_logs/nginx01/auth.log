@@ -1,0 +1,477 @@
+Apr 30 00:17:01 nginx01-jude CRON[1656539]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 00:17:01 nginx01-jude CRON[1656539]: pam_unix(cron:session): session closed for user root
+Apr 30 01:17:01 nginx01-jude CRON[1707121]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 01:17:01 nginx01-jude CRON[1707121]: pam_unix(cron:session): session closed for user root
+Apr 30 02:17:01 nginx01-jude CRON[1757710]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 02:17:01 nginx01-jude CRON[1757710]: pam_unix(cron:session): session closed for user root
+Apr 30 03:10:01 nginx01-jude CRON[1802462]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 03:10:01 nginx01-jude CRON[1802462]: pam_unix(cron:session): session closed for user root
+Apr 30 03:17:01 nginx01-jude CRON[1808354]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 03:17:01 nginx01-jude CRON[1808354]: pam_unix(cron:session): session closed for user root
+Apr 30 03:30:01 nginx01-jude CRON[1819310]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 03:30:01 nginx01-jude CRON[1819310]: pam_unix(cron:session): session closed for user root
+Apr 30 04:17:01 nginx01-jude CRON[1858913]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 04:17:01 nginx01-jude CRON[1858913]: pam_unix(cron:session): session closed for user root
+Apr 30 05:17:01 nginx01-jude CRON[1909513]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 05:17:01 nginx01-jude CRON[1909513]: pam_unix(cron:session): session closed for user root
+Apr 30 06:17:01 nginx01-jude CRON[1960166]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 06:17:01 nginx01-jude CRON[1960166]: pam_unix(cron:session): session closed for user root
+Apr 30 06:25:01 nginx01-jude CRON[1966916]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 06:25:01 nginx01-jude CRON[1966916]: pam_unix(cron:session): session closed for user root
+Apr 30 06:47:01 nginx01-jude CRON[1986262]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 06:47:01 nginx01-jude CRON[1986262]: pam_unix(cron:session): session closed for user root
+Apr 30 07:17:01 nginx01-jude CRON[2011606]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 07:17:01 nginx01-jude CRON[2011606]: pam_unix(cron:session): session closed for user root
+Apr 30 08:17:01 nginx01-jude CRON[2062204]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 08:17:01 nginx01-jude CRON[2062204]: pam_unix(cron:session): session closed for user root
+Apr 30 09:17:01 nginx01-jude CRON[2112452]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 09:17:01 nginx01-jude CRON[2112452]: pam_unix(cron:session): session closed for user root
+Apr 30 10:17:01 nginx01-jude CRON[2163070]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 10:17:01 nginx01-jude CRON[2163070]: pam_unix(cron:session): session closed for user root
+Apr 30 11:17:01 nginx01-jude CRON[2213671]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 11:17:01 nginx01-jude CRON[2213671]: pam_unix(cron:session): session closed for user root
+Apr 30 12:17:01 nginx01-jude CRON[2264252]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 12:17:01 nginx01-jude CRON[2264252]: pam_unix(cron:session): session closed for user root
+Apr 30 13:17:01 nginx01-jude CRON[2314854]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 13:17:02 nginx01-jude CRON[2314854]: pam_unix(cron:session): session closed for user root
+Apr 30 14:17:01 nginx01-jude CRON[2365540]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 14:17:01 nginx01-jude CRON[2365540]: pam_unix(cron:session): session closed for user root
+Apr 30 15:17:01 nginx01-jude CRON[2416163]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 15:17:01 nginx01-jude CRON[2416163]: pam_unix(cron:session): session closed for user root
+Apr 30 16:10:35 nginx01-jude sshd[884]: Server listening on 0.0.0.0 port 22.
+Apr 30 16:10:35 nginx01-jude sshd[884]: Server listening on :: port 22.
+Apr 30 16:10:35 nginx01-jude systemd-logind[835]: New seat seat0.
+Apr 30 16:10:35 nginx01-jude systemd-logind[835]: Watching system buttons on /dev/input/event0 (Power Button)
+Apr 30 16:10:35 nginx01-jude systemd-logind[835]: Watching system buttons on /dev/input/event1 (AT Translated Set 2 keyboard)
+Apr 30 16:10:44 nginx01-jude sshd[884]: Received signal 15; terminating.
+Apr 30 16:10:44 nginx01-jude sshd[1293]: Server listening on 0.0.0.0 port 22.
+Apr 30 16:10:44 nginx01-jude sshd[1293]: Server listening on :: port 22.
+Apr 30 16:11:46 nginx01-jude login[1401]: pam_unix(login:auth): authentication failure; logname=LOGIN uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=root
+Apr 30 16:11:49 nginx01-jude login[1401]: FAILED LOGIN (1) on '/dev/tty1' FOR 'root', Authentication failure
+Apr 30 16:11:56 nginx01-jude login[1401]: pam_unix(login:auth): check pass; user unknown
+Apr 30 16:11:56 nginx01-jude login[1401]: pam_unix(login:auth): authentication failure; logname=LOGIN uid=0 euid=0 tty=/dev/tty1 ruser= rhost= 
+Apr 30 16:11:58 nginx01-jude login[1401]: FAILED LOGIN (2) on '/dev/tty1' FOR 'UNKNOWN', Authentication failure
+Apr 30 16:17:01 nginx01-jude CRON[3630]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 16:17:01 nginx01-jude CRON[3630]: pam_unix(cron:session): session closed for user root
+Apr 30 16:18:21 nginx01-jude sshd[3639]: Accepted password for user1 from 172.16.50.1 port 36580 ssh2
+Apr 30 16:18:21 nginx01-jude sshd[3639]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 16:18:21 nginx01-jude systemd-logind[835]: New session 2 of user user1.
+Apr 30 16:18:21 nginx01-jude systemd: pam_unix(systemd-user:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 16:32:50 nginx01-jude sshd[3898]: Accepted password for jude from 172.16.150.10 port 56274 ssh2
+Apr 30 16:32:50 nginx01-jude sshd[3898]: pam_unix(sshd:session): session opened for user jude(uid=1001) by (uid=0)
+Apr 30 16:32:50 nginx01-jude systemd-logind[835]: New session 4 of user jude.
+Apr 30 16:32:50 nginx01-jude systemd: pam_unix(systemd-user:session): session opened for user jude(uid=1001) by (uid=0)
+Apr 30 16:32:58 nginx01-jude sudo:     jude : TTY=pts/2 ; PWD=/home/jude ; USER=root ; COMMAND=/usr/bin/su
+Apr 30 16:32:58 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by jude(uid=1001)
+Apr 30 16:32:58 nginx01-jude su: (to root) root on pts/3
+Apr 30 16:32:58 nginx01-jude su: pam_unix(su:session): session opened for user root(uid=0) by jude(uid=0)
+Apr 30 16:33:23 nginx01-jude sshd[3963]: Received disconnect from 172.16.150.10 port 56274:11: disconnected by user
+Apr 30 16:33:23 nginx01-jude sshd[3963]: Disconnected from user jude 172.16.150.10 port 56274
+Apr 30 16:33:23 nginx01-jude sshd[3898]: pam_unix(sshd:session): session closed for user jude
+Apr 30 16:33:23 nginx01-jude su: pam_unix(su:session): session closed for user root
+Apr 30 16:33:23 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 16:33:23 nginx01-jude systemd-logind[835]: Session 4 logged out. Waiting for processes to exit.
+Apr 30 16:33:23 nginx01-jude systemd-logind[835]: Removed session 4.
+Apr 30 16:35:49 nginx01-jude sshd[3745]: Received disconnect from 172.16.50.1 port 36580:11: disconnected by user
+Apr 30 16:35:49 nginx01-jude sshd[3745]: Disconnected from user user1 172.16.50.1 port 36580
+Apr 30 16:35:49 nginx01-jude sshd[3639]: pam_unix(sshd:session): session closed for user user1
+Apr 30 16:35:49 nginx01-jude systemd-logind[835]: Session 2 logged out. Waiting for processes to exit.
+Apr 30 16:36:15 nginx01-jude sshd[4006]: Accepted password for user1 from 172.16.50.1 port 36408 ssh2
+Apr 30 16:36:15 nginx01-jude sshd[4006]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 16:36:15 nginx01-jude systemd-logind[835]: New session 6 of user user1.
+Apr 30 16:36:24 nginx01-jude sshd[4064]: Received disconnect from 172.16.50.1 port 36408:11: disconnected by user
+Apr 30 16:36:24 nginx01-jude sshd[4064]: Disconnected from user user1 172.16.50.1 port 36408
+Apr 30 16:36:24 nginx01-jude sshd[4006]: pam_unix(sshd:session): session closed for user user1
+Apr 30 16:36:24 nginx01-jude systemd-logind[835]: Session 6 logged out. Waiting for processes to exit.
+Apr 30 16:36:39 nginx01-jude sshd[4088]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=user1
+Apr 30 16:36:42 nginx01-jude sshd[4088]: Failed password for user1 from 172.16.50.1 port 34286 ssh2
+Apr 30 16:37:09 nginx01-jude sshd[4088]: Accepted password for user1 from 172.16.50.1 port 34286 ssh2
+Apr 30 16:37:09 nginx01-jude sshd[4088]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 16:37:09 nginx01-jude systemd-logind[835]: New session 7 of user user1.
+Apr 30 16:37:35 nginx01-jude sshd[4151]: Received disconnect from 172.16.50.1 port 34286:11: disconnected by user
+Apr 30 16:37:35 nginx01-jude sshd[4151]: Disconnected from user user1 172.16.50.1 port 34286
+Apr 30 16:37:35 nginx01-jude sshd[4088]: pam_unix(sshd:session): session closed for user user1
+Apr 30 16:37:35 nginx01-jude systemd-logind[835]: Session 7 logged out. Waiting for processes to exit.
+Apr 30 16:37:35 nginx01-jude systemd-logind[835]: Removed session 7.
+Apr 30 16:41:33 nginx01-jude sshd[927]: Server listening on 0.0.0.0 port 22.
+Apr 30 16:41:33 nginx01-jude sshd[927]: Server listening on :: port 22.
+Apr 30 16:41:34 nginx01-jude systemd-logind[880]: New seat seat0.
+Apr 30 16:41:34 nginx01-jude systemd-logind[880]: Watching system buttons on /dev/input/event0 (Power Button)
+Apr 30 16:41:34 nginx01-jude systemd-logind[880]: Watching system buttons on /dev/input/event1 (AT Translated Set 2 keyboard)
+Apr 30 16:41:41 nginx01-jude sshd[927]: Received signal 15; terminating.
+Apr 30 16:41:41 nginx01-jude sshd[1330]: Server listening on 0.0.0.0 port 22.
+Apr 30 16:41:41 nginx01-jude sshd[1330]: Server listening on :: port 22.
+Apr 30 16:43:55 nginx01-jude sshd[2494]: Accepted password for user1 from 172.16.50.1 port 48548 ssh2
+Apr 30 16:43:55 nginx01-jude sshd[2494]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 16:43:55 nginx01-jude systemd-logind[880]: New session 1 of user user1.
+Apr 30 16:43:55 nginx01-jude systemd: pam_unix(systemd-user:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 16:44:06 nginx01-jude sshd[2599]: Received disconnect from 172.16.50.1 port 48548:11: disconnected by user
+Apr 30 16:44:06 nginx01-jude sshd[2599]: Disconnected from user user1 172.16.50.1 port 48548
+Apr 30 16:44:06 nginx01-jude sshd[2494]: pam_unix(sshd:session): session closed for user user1
+Apr 30 16:44:06 nginx01-jude systemd-logind[880]: Session 1 logged out. Waiting for processes to exit.
+Apr 30 16:52:07 nginx01-jude sshd[2715]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=user1
+Apr 30 16:52:09 nginx01-jude sshd[2715]: Failed password for user1 from 172.16.50.1 port 54902 ssh2
+Apr 30 16:52:12 nginx01-jude sshd[2715]: Accepted password for user1 from 172.16.50.1 port 54902 ssh2
+Apr 30 16:52:12 nginx01-jude sshd[2715]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 16:52:12 nginx01-jude systemd-logind[880]: New session 3 of user user1.
+Apr 30 16:52:32 nginx01-jude sshd[2773]: Received disconnect from 172.16.50.1 port 54902:11: disconnected by user
+Apr 30 16:52:32 nginx01-jude sshd[2773]: Disconnected from user user1 172.16.50.1 port 54902
+Apr 30 16:52:32 nginx01-jude sshd[2715]: pam_unix(sshd:session): session closed for user user1
+Apr 30 16:52:32 nginx01-jude systemd-logind[880]: Session 3 logged out. Waiting for processes to exit.
+Apr 30 16:52:32 nginx01-jude systemd-logind[880]: Removed session 3.
+Apr 30 16:53:03 nginx01-jude sshd[2805]: Accepted password for user1 from 172.16.50.1 port 38756 ssh2
+Apr 30 16:53:03 nginx01-jude sshd[2805]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 16:53:03 nginx01-jude systemd-logind[880]: New session 4 of user user1.
+Apr 30 16:53:10 nginx01-jude sshd[2852]: Received disconnect from 172.16.50.1 port 38756:11: disconnected by user
+Apr 30 16:53:10 nginx01-jude sshd[2852]: Disconnected from user user1 172.16.50.1 port 38756
+Apr 30 16:53:10 nginx01-jude sshd[2805]: pam_unix(sshd:session): session closed for user user1
+Apr 30 16:53:10 nginx01-jude systemd-logind[880]: Session 4 logged out. Waiting for processes to exit.
+Apr 30 16:55:50 nginx01-jude sshd[2906]: Accepted password for user1 from 172.16.50.1 port 33902 ssh2
+Apr 30 16:55:50 nginx01-jude sshd[2906]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 16:55:50 nginx01-jude systemd-logind[880]: New session 5 of user user1.
+Apr 30 16:56:33 nginx01-jude sshd[2962]: Received disconnect from 172.16.50.1 port 33902:11: disconnected by user
+Apr 30 16:56:33 nginx01-jude sshd[2962]: Disconnected from user user1 172.16.50.1 port 33902
+Apr 30 16:56:33 nginx01-jude sshd[2906]: pam_unix(sshd:session): session closed for user user1
+Apr 30 16:56:33 nginx01-jude systemd-logind[880]: Session 5 logged out. Waiting for processes to exit.
+Apr 30 17:15:20 nginx01-jude sshd[5979]: Accepted password for user1 from 172.16.50.1 port 45250 ssh2
+Apr 30 17:15:20 nginx01-jude sshd[5979]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 17:15:20 nginx01-jude systemd-logind[880]: New session 6 of user user1.
+Apr 30 17:16:08 nginx01-jude sudo: pam_unix(sudo:auth): conversation failed
+Apr 30 17:16:08 nginx01-jude sudo: pam_unix(sudo:auth): auth could not identify password for [user1]
+Apr 30 17:16:08 nginx01-jude sudo:    user1 : user NOT in sudoers ; PWD=/home/user1 ; USER=root ; COMMAND=cd /var
+Apr 30 17:17:01 nginx01-jude CRON[6353]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 17:17:01 nginx01-jude CRON[6353]: pam_unix(cron:session): session closed for user root
+Apr 30 17:29:42 nginx01-jude sshd[6045]: Received disconnect from 172.16.50.1 port 45250:11: disconnected by user
+Apr 30 17:29:42 nginx01-jude sshd[6045]: Disconnected from user user1 172.16.50.1 port 45250
+Apr 30 17:29:42 nginx01-jude sshd[5979]: pam_unix(sshd:session): session closed for user user1
+Apr 30 17:29:42 nginx01-jude systemd-logind[880]: Session 6 logged out. Waiting for processes to exit.
+Apr 30 18:02:14 nginx01-jude sudo: pam_unix(sudo:auth): conversation failed
+Apr 30 18:02:14 nginx01-jude sudo: pam_unix(sudo:auth): auth could not identify password for [user1]
+Apr 30 18:02:14 nginx01-jude sudo:    user1 : user NOT in sudoers ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/bin/rm index.nginx-debian.html
+Apr 30 18:02:33 nginx01-jude sudo: pam_unix(sudo:auth): conversation failed
+Apr 30 18:02:33 nginx01-jude sudo: pam_unix(sudo:auth): auth could not identify password for [user1]
+Apr 30 18:02:33 nginx01-jude sudo:    user1 : user NOT in sudoers ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/bin/su
+Apr 30 18:11:12 nginx01-jude sshd[13646]: Accepted password for user1 from 172.16.50.1 port 33426 ssh2
+Apr 30 18:11:12 nginx01-jude sshd[13646]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 18:11:12 nginx01-jude systemd-logind[880]: New session 8 of user user1.
+Apr 30 18:11:32 nginx01-jude sudo:    user1 : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:11:48 nginx01-jude sshd[13754]: Received disconnect from 172.16.50.1 port 33426:11: disconnected by user
+Apr 30 18:11:48 nginx01-jude sshd[13754]: Disconnected from user user1 172.16.50.1 port 33426
+Apr 30 18:11:48 nginx01-jude sshd[13646]: pam_unix(sshd:session): session closed for user user1
+Apr 30 18:11:48 nginx01-jude systemd-logind[880]: Session 8 logged out. Waiting for processes to exit.
+Apr 30 18:11:48 nginx01-jude systemd-logind[880]: Removed session 8.
+Apr 30 18:11:58 nginx01-jude sshd[13922]: Accepted password for jude from 172.16.50.1 port 54752 ssh2
+Apr 30 18:11:58 nginx01-jude sshd[13922]: pam_unix(sshd:session): session opened for user jude(uid=1001) by (uid=0)
+Apr 30 18:11:58 nginx01-jude systemd-logind[880]: New session 9 of user jude.
+Apr 30 18:11:58 nginx01-jude systemd: pam_unix(systemd-user:session): session opened for user jude(uid=1001) by (uid=0)
+Apr 30 18:12:30 nginx01-jude sudo:     jude : TTY=pts/0 ; PWD=/home/jude ; USER=root ; COMMAND=/usr/sbin/usermod -aG sudo user1
+Apr 30 18:12:30 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by jude(uid=1001)
+Apr 30 18:12:30 nginx01-jude usermod[14082]: add 'user1' to group 'sudo'
+Apr 30 18:12:30 nginx01-jude usermod[14082]: add 'user1' to shadow group 'sudo'
+Apr 30 18:12:30 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 18:12:33 nginx01-jude sshd[13990]: Received disconnect from 172.16.50.1 port 54752:11: disconnected by user
+Apr 30 18:12:33 nginx01-jude sshd[13990]: Disconnected from user jude 172.16.50.1 port 54752
+Apr 30 18:12:33 nginx01-jude sshd[13922]: pam_unix(sshd:session): session closed for user jude
+Apr 30 18:12:33 nginx01-jude systemd-logind[880]: Session 9 logged out. Waiting for processes to exit.
+Apr 30 18:12:33 nginx01-jude systemd-logind[880]: Removed session 9.
+Apr 30 18:12:44 nginx01-jude sshd[14122]: Accepted password for user1 from 172.16.50.1 port 52528 ssh2
+Apr 30 18:12:44 nginx01-jude sshd[14122]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 18:12:44 nginx01-jude systemd-logind[880]: New session 11 of user user1.
+Apr 30 18:12:49 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:12:49 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 18:16:04 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 18:16:13 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:16:13 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 18:16:27 nginx01-jude sshd[14186]: Received disconnect from 172.16.50.1 port 52528:11: disconnected by user
+Apr 30 18:16:27 nginx01-jude sshd[14186]: Disconnected from user user1 172.16.50.1 port 52528
+Apr 30 18:16:27 nginx01-jude sshd[14122]: pam_unix(sshd:session): session closed for user user1
+Apr 30 18:16:27 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 18:16:27 nginx01-jude systemd-logind[880]: Session 11 logged out. Waiting for processes to exit.
+Apr 30 18:16:27 nginx01-jude systemd-logind[880]: Removed session 11.
+Apr 30 18:16:41 nginx01-jude sudo: pam_unix(sudo:auth): conversation failed
+Apr 30 18:16:41 nginx01-jude sudo: pam_unix(sudo:auth): auth could not identify password for [user1]
+Apr 30 18:16:41 nginx01-jude sudo:    user1 : user NOT in sudoers ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:17:01 nginx01-jude CRON[14866]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 18:17:01 nginx01-jude CRON[14866]: pam_unix(cron:session): session closed for user root
+Apr 30 18:17:03 nginx01-jude sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1002 euid=0 tty=/dev/pts/4 ruser=user1 rhost=  user=user1
+Apr 30 18:17:31 nginx01-jude sshd[14939]: Accepted password for user1 from 172.16.50.1 port 51314 ssh2
+Apr 30 18:17:31 nginx01-jude sshd[14939]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 18:17:31 nginx01-jude systemd-logind[880]: New session 13 of user user1.
+Apr 30 18:17:36 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:17:36 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 18:18:03 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 18:18:04 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:18:04 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 18:18:24 nginx01-jude sshd[15003]: Received disconnect from 172.16.50.1 port 51314:11: disconnected by user
+Apr 30 18:18:24 nginx01-jude sshd[15003]: Disconnected from user user1 172.16.50.1 port 51314
+Apr 30 18:18:24 nginx01-jude sshd[14939]: pam_unix(sshd:session): session closed for user user1
+Apr 30 18:18:24 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 18:18:24 nginx01-jude systemd-logind[880]: Session 13 logged out. Waiting for processes to exit.
+Apr 30 18:18:24 nginx01-jude systemd-logind[880]: Removed session 13.
+Apr 30 18:18:41 nginx01-jude sshd[15207]: Accepted password for user1 from 172.16.50.1 port 35974 ssh2
+Apr 30 18:18:41 nginx01-jude sshd[15207]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 18:18:41 nginx01-jude systemd-logind[880]: New session 14 of user user1.
+Apr 30 18:18:45 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:18:45 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 18:29:05 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 18:29:17 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:29:17 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 18:38:21 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 18:38:24 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:38:24 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 18:38:33 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 18:38:33 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:38:33 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 18:38:34 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 18:38:37 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:38:37 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 18:39:12 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 18:39:21 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:39:21 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 18:47:20 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 18:59:28 nginx01-jude sudo: pam_unix(sudo:auth): authentication failure; logname=user1 uid=1002 euid=0 tty=/dev/pts/0 ruser=user1 rhost=  user=user1
+Apr 30 18:59:32 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execute.elf
+Apr 30 18:59:32 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 19:17:01 nginx01-jude CRON[26150]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 19:17:01 nginx01-jude CRON[26150]: pam_unix(cron:session): session closed for user root
+Apr 30 19:46:17 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 19:46:19 nginx01-jude sshd[15269]: Received disconnect from 172.16.50.1 port 35974:11: disconnected by user
+Apr 30 19:46:19 nginx01-jude sshd[15269]: Disconnected from user user1 172.16.50.1 port 35974
+Apr 30 19:46:19 nginx01-jude sshd[15207]: pam_unix(sshd:session): session closed for user user1
+Apr 30 19:46:19 nginx01-jude systemd-logind[880]: Session 14 logged out. Waiting for processes to exit.
+Apr 30 19:46:35 nginx01-jude sshd[31159]: Accepted password for user1 from 172.16.50.1 port 33202 ssh2
+Apr 30 19:46:35 nginx01-jude sshd[31159]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+Apr 30 19:46:35 nginx01-jude systemd-logind[880]: New session 16 of user user1.
+Apr 30 19:46:45 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=/usr/bin/su jude
+Apr 30 19:46:45 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 19:46:45 nginx01-jude su: (to jude) root on pts/5
+Apr 30 19:46:45 nginx01-jude su: pam_unix(su:session): session opened for user jude(uid=1001) by user1(uid=0)
+Apr 30 19:49:44 nginx01-jude su: pam_unix(su:session): session closed for user jude
+Apr 30 19:49:44 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 19:49:47 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=/usr/bin/su jude
+Apr 30 19:49:47 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 19:49:47 nginx01-jude su: (to jude) root on pts/5
+Apr 30 19:49:47 nginx01-jude su: pam_unix(su:session): session opened for user jude(uid=1001) by user1(uid=0)
+Apr 30 19:51:25 nginx01-jude su: pam_unix(su:session): session closed for user jude
+Apr 30 19:51:25 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 19:54:16 nginx01-jude sshd[32548]: Received disconnect from 172.16.50.1 port 59018:11: Bye Bye [preauth]
+Apr 30 19:54:16 nginx01-jude sshd[32548]: Disconnected from authenticating user jude 172.16.50.1 port 59018 [preauth]
+Apr 30 19:54:16 nginx01-jude sshd[32550]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=jude
+Apr 30 19:54:18 nginx01-jude sshd[32550]: Failed password for jude from 172.16.50.1 port 59022 ssh2
+Apr 30 19:54:20 nginx01-jude sshd[32550]: Connection closed by authenticating user jude 172.16.50.1 port 59022 [preauth]
+Apr 30 19:55:23 nginx01-jude sshd[32722]: Received disconnect from 172.16.50.1 port 39292:11: Bye Bye [preauth]
+Apr 30 19:55:23 nginx01-jude sshd[32722]: Disconnected from authenticating user jude 172.16.50.1 port 39292 [preauth]
+Apr 30 19:55:23 nginx01-jude sshd[32726]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=jude
+Apr 30 19:55:25 nginx01-jude sshd[32726]: Failed password for jude from 172.16.50.1 port 39306 ssh2
+Apr 30 19:55:27 nginx01-jude sshd[32726]: Connection closed by authenticating user jude 172.16.50.1 port 39306 [preauth]
+Apr 30 19:56:04 nginx01-jude sshd[32835]: Received disconnect from 172.16.50.1 port 38726:11: Bye Bye [preauth]
+Apr 30 19:56:04 nginx01-jude sshd[32835]: Disconnected from authenticating user jude 172.16.50.1 port 38726 [preauth]
+Apr 30 19:56:05 nginx01-jude sshd[32837]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=jude
+Apr 30 19:56:07 nginx01-jude sshd[32837]: Failed password for jude from 172.16.50.1 port 38742 ssh2
+Apr 30 19:56:07 nginx01-jude sshd[32837]: Connection closed by authenticating user jude 172.16.50.1 port 38742 [preauth]
+Apr 30 19:57:10 nginx01-jude sshd[33009]: Received disconnect from 172.16.50.1 port 56770:11: Bye Bye [preauth]
+Apr 30 19:57:10 nginx01-jude sshd[33009]: Disconnected from authenticating user jude 172.16.50.1 port 56770 [preauth]
+Apr 30 19:57:11 nginx01-jude sshd[33013]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=jude
+Apr 30 19:57:11 nginx01-jude sshd[33012]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=jude
+Apr 30 19:57:11 nginx01-jude sshd[33014]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=jude
+Apr 30 19:57:11 nginx01-jude sshd[33011]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=jude
+Apr 30 19:57:13 nginx01-jude sshd[33012]: Failed password for jude from 172.16.50.1 port 56776 ssh2
+Apr 30 19:57:13 nginx01-jude sshd[33014]: Failed password for jude from 172.16.50.1 port 56810 ssh2
+Apr 30 19:57:13 nginx01-jude sshd[33013]: Failed password for jude from 172.16.50.1 port 56796 ssh2
+Apr 30 19:57:13 nginx01-jude sshd[33011]: Failed password for jude from 172.16.50.1 port 56774 ssh2
+Apr 30 19:57:13 nginx01-jude sshd[33011]: Connection closed by authenticating user jude 172.16.50.1 port 56774 [preauth]
+Apr 30 19:57:13 nginx01-jude sshd[33014]: Accepted password for jude from 172.16.50.1 port 56810 ssh2
+Apr 30 19:57:13 nginx01-jude sshd[33014]: pam_unix(sshd:session): session opened for user jude(uid=1001) by (uid=0)
+Apr 30 19:57:13 nginx01-jude systemd-logind[880]: New session 17 of user jude.
+Apr 30 19:57:13 nginx01-jude systemd: pam_unix(systemd-user:session): session opened for user jude(uid=1001) by (uid=0)
+Apr 30 19:57:14 nginx01-jude sshd[33014]: pam_unix(sshd:session): session closed for user jude
+Apr 30 19:57:14 nginx01-jude systemd-logind[880]: Session 17 logged out. Waiting for processes to exit.
+Apr 30 19:57:14 nginx01-jude systemd-logind[880]: Removed session 17.
+Apr 30 19:57:15 nginx01-jude sshd[33012]: Failed password for jude from 172.16.50.1 port 56776 ssh2
+Apr 30 19:57:15 nginx01-jude sshd[33013]: Failed password for jude from 172.16.50.1 port 56796 ssh2
+Apr 30 19:57:17 nginx01-jude sshd[33013]: Connection closed by authenticating user jude 172.16.50.1 port 56796 [preauth]
+Apr 30 19:57:17 nginx01-jude sshd[33013]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=jude
+Apr 30 19:57:17 nginx01-jude sshd[33012]: Connection closed by authenticating user jude 172.16.50.1 port 56776 [preauth]
+Apr 30 19:57:17 nginx01-jude sshd[33012]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=jude
+Apr 30 19:57:37 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=/usr/bin/su jude
+Apr 30 19:57:37 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+Apr 30 19:57:37 nginx01-jude su: (to jude) root on pts/5
+Apr 30 19:57:37 nginx01-jude su: pam_unix(su:session): session opened for user jude(uid=1001) by user1(uid=0)
+Apr 30 20:17:01 nginx01-jude CRON[36187]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 20:17:01 nginx01-jude CRON[36187]: pam_unix(cron:session): session closed for user root
+Apr 30 21:17:01 nginx01-jude CRON[42013]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 21:17:01 nginx01-jude CRON[42013]: pam_unix(cron:session): session closed for user root
+Apr 30 22:17:01 nginx01-jude CRON[52603]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 22:17:01 nginx01-jude CRON[52603]: pam_unix(cron:session): session closed for user root
+Apr 30 22:54:33 nginx01-jude su: pam_unix(su:session): session closed for user jude
+Apr 30 22:54:33 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 22:54:36 nginx01-jude sshd[31268]: Received disconnect from 172.16.50.1 port 33202:11: disconnected by user
+Apr 30 22:54:36 nginx01-jude sshd[31268]: Disconnected from user user1 172.16.50.1 port 33202
+Apr 30 22:54:36 nginx01-jude sshd[31159]: pam_unix(sshd:session): session closed for user user1
+Apr 30 22:54:36 nginx01-jude systemd-logind[880]: Session 16 logged out. Waiting for processes to exit.
+Apr 30 22:54:36 nginx01-jude systemd-logind[880]: Removed session 16.
+Apr 30 22:55:29 nginx01-jude sshd[59670]: Accepted password for jude from 172.16.150.10 port 60174 ssh2
+Apr 30 22:55:29 nginx01-jude sshd[59670]: pam_unix(sshd:session): session opened for user jude(uid=1001) by (uid=0)
+Apr 30 22:55:29 nginx01-jude systemd-logind[880]: New session 22 of user jude.
+Apr 30 22:55:29 nginx01-jude systemd: pam_unix(systemd-user:session): session opened for user jude(uid=1001) by (uid=0)
+Apr 30 22:55:51 nginx01-jude sudo:     jude : TTY=pts/0 ; PWD=/home/jude ; USER=root ; COMMAND=/usr/bin/su
+Apr 30 22:55:51 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by jude(uid=1001)
+Apr 30 22:55:51 nginx01-jude su: (to root) root on pts/5
+Apr 30 22:55:51 nginx01-jude su: pam_unix(su:session): session opened for user root(uid=0) by jude(uid=0)
+Apr 30 23:08:20 nginx01-jude sshd[59785]: Received disconnect from 172.16.150.10 port 60174:11: disconnected by user
+Apr 30 23:08:20 nginx01-jude sshd[59785]: Disconnected from user jude 172.16.150.10 port 60174
+Apr 30 23:08:20 nginx01-jude sshd[59670]: pam_unix(sshd:session): session closed for user jude
+Apr 30 23:08:20 nginx01-jude su: pam_unix(su:session): session closed for user root
+Apr 30 23:08:20 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+Apr 30 23:08:20 nginx01-jude systemd-logind[880]: Session 22 logged out. Waiting for processes to exit.
+Apr 30 23:08:20 nginx01-jude systemd-logind[880]: Removed session 22.
+Apr 30 23:17:01 nginx01-jude CRON[65443]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Apr 30 23:17:01 nginx01-jude CRON[65443]: pam_unix(cron:session): session closed for user root
+May  1 00:14:39 nginx01-jude sshd[75607]: error: kex_exchange_identification: Connection closed by remote host
+May  1 00:14:39 nginx01-jude sshd[75607]: Connection closed by 172.16.50.1 port 57608
+May  1 00:14:45 nginx01-jude sshd[75626]: error: Protocol major versions differ: 2 vs. 1
+May  1 00:14:45 nginx01-jude sshd[75626]: banner exchange: Connection from 172.16.50.1 port 33266: could not read protocol version
+May  1 00:14:45 nginx01-jude sshd[75627]: error: Protocol major versions differ: 2 vs. 1
+May  1 00:14:45 nginx01-jude sshd[75627]: banner exchange: Connection from 172.16.50.1 port 33268: could not read protocol version
+May  1 00:14:45 nginx01-jude sshd[75628]: Unable to negotiate with 172.16.50.1 port 33280: no matching host key type found. Their offer: ssh-dss [preauth]
+May  1 00:14:45 nginx01-jude sshd[75630]: Unable to negotiate with 172.16.50.1 port 33286: no matching host key type found. Their offer: ssh-rsa [preauth]
+May  1 00:14:45 nginx01-jude sshd[75632]: Connection closed by 172.16.50.1 port 33300 [preauth]
+May  1 00:14:45 nginx01-jude sshd[75634]: Unable to negotiate with 172.16.50.1 port 33306: no matching host key type found. Their offer: ecdsa-sha2-nistp384 [preauth]
+May  1 00:14:45 nginx01-jude sshd[75636]: Unable to negotiate with 172.16.50.1 port 33310: no matching host key type found. Their offer: ecdsa-sha2-nistp521 [preauth]
+May  1 00:14:45 nginx01-jude sshd[75638]: Connection closed by 172.16.50.1 port 33322 [preauth]
+May  1 00:15:15 nginx01-jude sshd[75725]: error: kex_exchange_identification: banner line contains invalid characters
+May  1 00:15:15 nginx01-jude sshd[75725]: banner exchange: Connection from 172.16.50.1 port 45784: invalid format
+May  1 00:15:17 nginx01-jude sshd[75728]: Unable to negotiate with 172.16.50.1 port 45790: no matching host key type found. Their offer: ssh-rsa [preauth]
+May  1 00:17:01 nginx01-jude CRON[76021]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 00:17:01 nginx01-jude CRON[76021]: pam_unix(cron:session): session closed for user root
+May  1 00:17:19 nginx01-jude sshd[76066]: Accepted password for user1 from 172.16.50.1 port 42554 ssh2
+May  1 00:17:19 nginx01-jude sshd[76066]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+May  1 00:17:19 nginx01-jude systemd-logind[880]: New session 26 of user user1.
+May  1 00:19:07 nginx01-jude sshd[76044]: fatal: Timeout before authentication for 172.16.50.1 port 34794
+May  1 00:29:34 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execue.elf
+May  1 00:29:34 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 00:33:53 nginx01-jude sshd[80031]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.50.1  user=user1
+May  1 00:33:55 nginx01-jude sshd[80031]: Failed password for user1 from 172.16.50.1 port 35956 ssh2
+May  1 00:33:58 nginx01-jude sshd[80031]: Accepted password for user1 from 172.16.50.1 port 35956 ssh2
+May  1 00:33:58 nginx01-jude sshd[80031]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+May  1 00:33:58 nginx01-jude systemd-logind[880]: New session 27 of user user1.
+May  1 00:34:18 nginx01-jude sudo:    user1 : TTY=pts/7 ; PWD=/home/user1 ; USER=root ; COMMAND=./payload2.sh
+May  1 00:34:18 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 00:34:18 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:36:32 nginx01-jude sudo:    user1 : TTY=pts/7 ; PWD=/home/user1 ; USER=root ; COMMAND=/usr/bin/nano payload2.sh
+May  1 00:36:32 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 00:36:52 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:37:10 nginx01-jude sudo:    user1 : TTY=pts/7 ; PWD=/home/user1 ; USER=root ; COMMAND=/usr/bin/nano payload2.sh
+May  1 00:37:10 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 00:40:19 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:40:37 nginx01-jude sudo:    user1 : TTY=pts/7 ; PWD=/home/user1 ; USER=root ; COMMAND=/usr/bin/nano payload2.sh
+May  1 00:40:37 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 00:42:08 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:42:18 nginx01-jude sudo:    user1 : TTY=pts/7 ; PWD=/home/user1 ; USER=root ; COMMAND=/usr/bin/nano payload2.sh
+May  1 00:42:18 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 00:44:19 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:45:15 nginx01-jude sudo:    user1 : TTY=pts/7 ; PWD=/home/user1 ; USER=root ; COMMAND=/usr/bin/chmod +x payload2.sh
+May  1 00:45:15 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 00:45:15 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:45:23 nginx01-jude sshd[80133]: Received disconnect from 172.16.50.1 port 35956:11: disconnected by user
+May  1 00:45:23 nginx01-jude sshd[80133]: Disconnected from user user1 172.16.50.1 port 35956
+May  1 00:45:23 nginx01-jude sshd[80031]: pam_unix(sshd:session): session closed for user user1
+May  1 00:45:23 nginx01-jude systemd-logind[880]: Session 27 logged out. Waiting for processes to exit.
+May  1 00:45:23 nginx01-jude systemd-logind[880]: Removed session 27.
+May  1 00:47:37 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:47:42 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execue.elf
+May  1 00:47:42 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 00:47:50 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:47:51 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execue.elf
+May  1 00:47:51 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 00:50:01 nginx01-jude sudo:     root : TTY=pts/6 ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/bin/su jude
+May  1 00:50:01 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=0)
+May  1 00:50:01 nginx01-jude su: (to jude) root on none
+May  1 00:50:01 nginx01-jude su: pam_unix(su:session): session opened for user jude(uid=1001) by (uid=0)
+May  1 00:50:20 nginx01-jude su: pam_unix(su:session): session closed for user jude
+May  1 00:50:20 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:52:30 nginx01-jude sshd[85965]: Accepted password for user1 from 172.16.50.1 port 33610 ssh2
+May  1 00:52:30 nginx01-jude sshd[85965]: pam_unix(sshd:session): session opened for user user1(uid=1002) by (uid=0)
+May  1 00:52:30 nginx01-jude systemd-logind[880]: New session 28 of user user1.
+May  1 00:52:38 nginx01-jude sudo:    user1 : TTY=pts/7 ; PWD=/home/user1 ; USER=root ; COMMAND=/usr/bin/su jude
+May  1 00:52:38 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 00:52:38 nginx01-jude su: (to jude) root on pts/8
+May  1 00:52:38 nginx01-jude su: pam_unix(su:session): session opened for user jude(uid=1001) by user1(uid=0)
+May  1 00:53:19 nginx01-jude su: pam_unix(su:session): session closed for user jude
+May  1 00:53:19 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:53:20 nginx01-jude sshd[86045]: Received disconnect from 172.16.50.1 port 33610:11: disconnected by user
+May  1 00:53:20 nginx01-jude sshd[86045]: Disconnected from user user1 172.16.50.1 port 33610
+May  1 00:53:20 nginx01-jude sshd[85965]: pam_unix(sshd:session): session closed for user user1
+May  1 00:53:20 nginx01-jude systemd-logind[880]: Session 28 logged out. Waiting for processes to exit.
+May  1 00:53:20 nginx01-jude systemd-logind[880]: Removed session 28.
+May  1 00:58:00 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:58:16 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execue.elf
+May  1 00:58:16 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 00:58:26 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 00:58:27 nginx01-jude sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=./execue.elf
+May  1 00:58:27 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by user1(uid=1002)
+May  1 01:00:16 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 01:14:58 nginx01-jude sshd[76175]: Received disconnect from 172.16.50.1 port 42554:11: disconnected by user
+May  1 01:14:58 nginx01-jude sshd[76175]: Disconnected from user user1 172.16.50.1 port 42554
+May  1 01:14:58 nginx01-jude systemd-logind[880]: Session 26 logged out. Waiting for processes to exit.
+May  1 01:14:58 nginx01-jude sshd[76066]: pam_unix(sshd:session): session closed for user user1
+May  1 01:17:01 nginx01-jude CRON[93710]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 01:17:01 nginx01-jude CRON[93710]: pam_unix(cron:session): session closed for user root
+May  1 02:17:01 nginx01-jude CRON[104155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 02:17:01 nginx01-jude CRON[104155]: pam_unix(cron:session): session closed for user root
+May  1 02:17:34 nginx01-jude login[1435]: pam_unix(login:session): session opened for user jude(uid=1001) by LOGIN(uid=0)
+May  1 02:17:34 nginx01-jude systemd-logind[880]: New session 31 of user jude.
+May  1 02:17:34 nginx01-jude systemd: pam_unix(systemd-user:session): session opened for user jude(uid=1001) by (uid=0)
+May  1 02:17:46 nginx01-jude sudo:     jude : TTY=tty1 ; PWD=/home/jude ; USER=root ; COMMAND=/usr/bin/systemctl restart nginx.service
+May  1 02:17:46 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by jude(uid=1001)
+May  1 02:17:47 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 02:17:50 nginx01-jude sudo:     jude : TTY=tty1 ; PWD=/home/jude ; USER=root ; COMMAND=/usr/bin/systemctl restart wazuh-agent.service
+May  1 02:17:50 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by jude(uid=1001)
+May  1 02:17:58 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 03:10:01 nginx01-jude CRON[114275]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 03:10:01 nginx01-jude CRON[114275]: pam_unix(cron:session): session closed for user root
+May  1 03:17:01 nginx01-jude CRON[115447]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 03:17:01 nginx01-jude CRON[115447]: pam_unix(cron:session): session closed for user root
+May  1 04:17:01 nginx01-jude CRON[125888]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 04:17:01 nginx01-jude CRON[125888]: pam_unix(cron:session): session closed for user root
+May  1 05:17:01 nginx01-jude CRON[136335]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 05:17:01 nginx01-jude CRON[136335]: pam_unix(cron:session): session closed for user root
+May  1 06:17:01 nginx01-jude CRON[146788]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 06:17:01 nginx01-jude CRON[146788]: pam_unix(cron:session): session closed for user root
+May  1 06:25:01 nginx01-jude CRON[148531]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 06:25:01 nginx01-jude CRON[148531]: pam_unix(cron:session): session closed for user root
+May  1 06:52:01 nginx01-jude CRON[153066]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 06:52:01 nginx01-jude CRON[153066]: pam_unix(cron:session): session closed for user root
+May  1 07:17:01 nginx01-jude CRON[157247]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 07:17:01 nginx01-jude CRON[157247]: pam_unix(cron:session): session closed for user root
+May  1 08:17:01 nginx01-jude CRON[167691]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 08:17:01 nginx01-jude CRON[167691]: pam_unix(cron:session): session closed for user root
+May  1 09:17:01 nginx01-jude CRON[178143]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 09:17:01 nginx01-jude CRON[178143]: pam_unix(cron:session): session closed for user root
+May  1 10:17:01 nginx01-jude CRON[188583]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 10:17:01 nginx01-jude CRON[188583]: pam_unix(cron:session): session closed for user root
+May  1 11:17:01 nginx01-jude CRON[199037]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 11:17:01 nginx01-jude CRON[199037]: pam_unix(cron:session): session closed for user root
+May  1 12:17:01 nginx01-jude CRON[209477]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 12:17:01 nginx01-jude CRON[209477]: pam_unix(cron:session): session closed for user root
+May  1 12:56:15 nginx01-jude sshd[216454]: Accepted password for jude from 172.16.150.10 port 46652 ssh2
+May  1 12:56:15 nginx01-jude sshd[216454]: pam_unix(sshd:session): session opened for user jude(uid=1001) by (uid=0)
+May  1 12:56:15 nginx01-jude systemd-logind[880]: New session 46 of user jude.
+May  1 13:05:11 nginx01-jude sudo:     jude : TTY=pts/0 ; PWD=/home/jude ; USER=root ; COMMAND=/usr/bin/su
+May  1 13:05:11 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by jude(uid=1001)
+May  1 13:05:11 nginx01-jude su: (to root) root on pts/6
+May  1 13:05:11 nginx01-jude su: pam_unix(su:session): session opened for user root(uid=0) by jude(uid=0)
+May  1 13:09:18 nginx01-jude sshd[1330]: Received signal 15; terminating.
+May  1 13:09:19 nginx01-jude sshd[218999]: Server listening on 0.0.0.0 port 22.
+May  1 13:09:19 nginx01-jude sshd[218999]: Server listening on :: port 22.
+May  1 13:17:01 nginx01-jude CRON[220446]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+May  1 13:17:01 nginx01-jude CRON[220446]: pam_unix(cron:session): session closed for user root
+May  1 13:20:46 nginx01-jude su: pam_unix(su:session): session closed for user root
+May  1 13:20:46 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 13:21:17 nginx01-jude sudo:     jude : TTY=pts/0 ; PWD=/home/jude ; USER=root ; COMMAND=/usr/bin/cat ossec-30.log
+May  1 13:21:17 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by jude(uid=1001)
+May  1 13:21:17 nginx01-jude sudo: pam_unix(sudo:session): session closed for user root
+May  1 13:23:13 nginx01-jude sudo:     jude : TTY=pts/0 ; PWD=/var ; USER=root ; COMMAND=/usr/bin/su
+May  1 13:23:13 nginx01-jude sudo: pam_unix(sudo:session): session opened for user root(uid=0) by jude(uid=1001)
+May  1 13:23:13 nginx01-jude su: (to root) root on pts/6
+May  1 13:23:13 nginx01-jude su: pam_unix(su:session): session opened for user root(uid=0) by jude(uid=0)
