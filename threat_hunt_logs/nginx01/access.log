@@ -1,0 +1,6 @@
+  GNU nano 6.2                                                                                   access.log                                                                                            
+172.16.50.1 - - [30/Apr/2023:18:20:14 +0000] "GET / HTTP/1.1" 200 36228 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0"
+172.16.50.1 - - [30/Apr/2023:18:20:18 +0000] "GET /jude-lindale/SEC-350-01/security/overall-count HTTP/1.1" 404 134 "http://172.16.50.3/" "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Fi>
+172.16.50.1 - - [30/Apr/2023:18:20:18 +0000] "GET /jude-lindale/SEC-350-01/spoofed_commit_check/f7f9c9594e3e75ad4a661b969ae37dba321038cb HTTP/1.1" 404 134 "http://172.16.50.3/" "Mozilla/5.0 (X11; Li>
+172.16.50.1 - - [30/Apr/2023:18:20:18 +0000] "GET /jude-lindale/SEC-350-01/contributors/main/index.nginx-debian.html HTTP/1.1" 404 134 "http://172.16.50.3/" "Mozilla/5.0 (X11; Linux x86_64; rv:102.0>
+172.16.50.1 - - [30/Apr/2023:18:31:33 +0000] "GET / HTTP/1.1" 200 857 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0"
